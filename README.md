@@ -65,5 +65,5 @@ O projeto foi automatizado utilizando duas abordagens complementares:
 ---
 
 ## 👥 Autor
-- **Seu Nome** - [Seu Perfil do GitHub](https://github.com)
+- **lucas** - [https://github.com](https://github.com/LucasCosendey)
 - Projeto desenvolvido como parte do Certificado Profissional de DevOps da IBM.
